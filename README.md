@@ -152,5 +152,6 @@ Analog Circuit Testing
 
 
 Worked on the positive voltage regulator inside the EE lab:
-<img width="518" height="582" alt="image" src="https://github.com/user-attachments/assets/dcb98fc8-9676-4ab2-8483-943285582833" />
+
+<img width="300" height="320" alt="image" src="https://github.com/user-attachments/assets/dcb98fc8-9676-4ab2-8483-943285582833" />
 
